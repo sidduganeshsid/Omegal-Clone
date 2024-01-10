@@ -1,1 +1,1 @@
-## Omegle using WebRTC (p2pg)
+## Omegle using WebRTC (p2p)
